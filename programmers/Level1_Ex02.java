@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.Scanner;
 
-public class Level2_Ex02 {
+public class Level1_Ex02 {
 
 	public static void main(String[] args) {
 
