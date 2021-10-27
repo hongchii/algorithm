@@ -2,10 +2,10 @@ package programmers;
 
 import java.util.Scanner;
 
-public class Level1_Ex02 {
+public class Ex12954 {
 
 	public static void main(String[] args) {
-
+		// x만큼 간격이 있는 n개의 숫자
 		Scanner scan = new Scanner(System.in);
 
 		int x = scan.nextInt();
