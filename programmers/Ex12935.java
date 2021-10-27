@@ -3,7 +3,7 @@ package programmers;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Level1_Ex12 {
+public class Ex12935 {
 
 	public static void main(String[] args) {
 		// 제일 작은 수 제거하기
