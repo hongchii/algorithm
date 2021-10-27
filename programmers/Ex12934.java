@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.Scanner;
 
-public class Level1_Ex13 {
+public class Ex12934 {
 
 	public static void main(String[] args) {
 		// 정수 제곱근 판별
