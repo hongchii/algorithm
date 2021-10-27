@@ -2,9 +2,10 @@ package programmers;
 
 import java.util.Scanner;
 
-public class Level1_Ex01 {
+public class Ex12969 {
 
 	public static void main(String[] args) {
+		// 직사각형 별찍기
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		int m = sc.nextInt();
