@@ -2,10 +2,10 @@ package programmers;
 
 import java.util.Scanner;
 
-public class Level1_Ex10 {
+public class Ex12931 {
 
 	public static void main(String[] args) {
-
+		// 자릿수 더하기
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();
 
