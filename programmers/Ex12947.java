@@ -1,9 +1,9 @@
 package programmers;
 
-public class Level1_Ex04 {
+public class Ex12947 {
 
 	public static void main(String[] args) {
-
+		// 하샤드 수
 	}
 
 	public boolean solution(int x) {
