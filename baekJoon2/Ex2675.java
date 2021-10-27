@@ -22,7 +22,7 @@ public class Ex2675 {
 					System.out.print(s.charAt(j));
 				}
 			}
-
+			System.out.println();
 		}
 
 	}
