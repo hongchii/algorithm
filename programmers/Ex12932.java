@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.Arrays;
 
-public class Level1_Ex14 {
+public class Ex12932 {
 
 	public static void main(String[] args) {
 		// 자연수 뒤집어 배열로 만들기
