@@ -1,9 +1,9 @@
 package programmers;
 
-public class Level1_Ex06 {
+public class Ex12948 {
 
 	public static void main(String[] args) {
-
+		// 핸드폰 번호 가리기
 	}
 	
     public String solution(String phone_number) {
