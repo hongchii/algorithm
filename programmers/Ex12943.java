@@ -1,10 +1,10 @@
 package programmers;
 
-public class Level1_Ex05 {
+public class Ex12943 {
 
 	public static void main(String[] args) {
 		
-	
+		// 콜라츠 추측
 	}
 	
 	 public int solution(long num) {
