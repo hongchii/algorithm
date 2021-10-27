@@ -1,9 +1,9 @@
 package programmers;
 
-public class Level1_Ex07 {
+public class Ex12944 {
 
 	public static void main(String[] args) {
-
+		// 평균 구하기
 	}
 
 	public double solution(int[] arr) {
