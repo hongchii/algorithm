@@ -3,10 +3,10 @@ package programmers;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Level1_Ex09 {
+public class Ex12940 {
 
 	public static void main(String[] args) {
-		
+		// 최대공약수와 최소공배수
 		Scanner scan = new Scanner(System.in);
 		
 		int n = scan.nextInt();
