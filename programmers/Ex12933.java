@@ -3,7 +3,7 @@ package programmers;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Level1_Ex11 {
+public class Ex12933 {
 
 	public static void main(String[] args) {
 		// 정수 내림차순으로 배치하기
