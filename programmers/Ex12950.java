@@ -1,9 +1,9 @@
 package programmers;
 
-public class Level1_Ex03 {
+public class Ex12950 {
 
 	public static void main(String[] args) {
-		
+		// 행렬의 덧셈
 	}
 	public static int[][] solution(int[][] arr1, int[][] arr2) {
 		
