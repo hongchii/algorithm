@@ -20,7 +20,7 @@ public class Q1 {
 	static int max4(int a, int b, int c, int d) {
 
 		int max = a;
-		
+
 		if (max < b)
 			max = b;
 		if (max < c)
